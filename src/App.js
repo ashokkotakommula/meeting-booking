@@ -37,8 +37,8 @@ function App() {
 
 
   var gapi = window.gapi
-  var CLIENT_ID = "242607976060-mubk17b6d1l4jl0lb8d565o4nd30cck4.apps.googleusercontent.com"
-  var API_KEY = "AIzaSyB-1XnkZK7Mf_LgxvC9019eFrYskbJV4fI"
+  var CLIENT_ID = "client ID"
+  var API_KEY = "API key"
   var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"]
   var SCOPES = "https://www.googleapis.com/auth/calendar.events"
 
