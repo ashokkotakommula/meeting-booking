@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    height: 50px;
+    width: 100%;
+    background: crimson;
+}
+.nav button {
+ margin: 10px;
+ padding: 5px;
+}
+h1 {
+    text-align: center;
+    margin: 15px;
+    font-weight: 400;
+}
+fieldset {
+    width: 400px;
+    height: 50px;
+}
+.meet-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    text-align: center;
+}
+.meet-form {
+    width: 600px;
+    height: auto;
+}
+#opt {
+    width: 300px;
+    height: 35px;
+    margin: 5px;
+    padding: 4px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1.5px solid gray;
+    outline-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input {
+    box-sizing: border-box;
+    width: 300px;
+    height: 35px;
+    margin: 5px;
+    padding: 4px;
+    border-radius: 5px;
+    border: 1.5px solid gray;
+    outline-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#slot {
+    text-align: center;
+}
+.slots {
+   
+    height: auto;
+    display: inline-block;
+}
+.slot-button {
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1.5px solid gray;
+    outline-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.slot-buttonRed {
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 1;
+    border: 1.5px solid crimson;
+}
+.app-btn {
+    width: 300px;
+    height: 30px;
+    background: crimson;
+    border: 1.5px solid gray;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.app-btn:hover {
+    background: white;
+    color: crimson;
+    border: 1.5px solid crimson;
+}
