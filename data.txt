@@ -1,3 +1,1 @@
-var CLIENT_ID = "151762618976-f8lvuj7d1s3mfjnh9885eqslf3cj277g.apps.googleusercontent.com";
-var API_KEY = "AIzaSyD3SdTA9qv4VkOo1ywc-ej9ET1kfLS_qw0";
-secret = "cDCN1zQgXl_LH7lTE4rSypzH";
+
